@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cloud Computing, Web Development, Deep Learning.<br>👯 I’m looking to collaborate on Web Development projects.<br>🌱 I’m currently learning Cloud Computing.<br>⚡ Fun fact: I love Anime.
+🔭 I’m currently working on Cloud Computing, Web Development, Deep Learning.<br>👯 I’m looking to collaborate on Web Development projects.<br>🌱 I’m currently learning Cloud Computing and Serverless Computing.<br>⚡ Fun fact: I love Anime.
 
 
 ## 🌐 Socials:
